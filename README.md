@@ -28,13 +28,7 @@ yarn install
 npm install
 ```
 
-### 4. Rodar as Migrações do Prisma
-
-```sh
-npx prisma migrate dev --name init
-```
-
-### 5. Executar o Servidor
+### 4. Executar o Servidor
 
 ```sh
 yarn dev
